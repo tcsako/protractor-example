@@ -22,7 +22,7 @@ thomascook_spec.js - basic test scripts for https://www.thomascook.com/ an Angul
 conf.js - basic configuration
 
 In conf JS you can change the test script file:
-specs: ['jetblue_spec.js']
+specs: ['spec.js']
 or
 specs: ['thomascook_spec.js'],
 
